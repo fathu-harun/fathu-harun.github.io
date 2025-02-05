@@ -1,6 +1,1 @@
-Commands to commit
-git add --all
-
-git commit -m "Initial commit"
-
-git push -u origin main
+This is my personal website. It is still in the works.
